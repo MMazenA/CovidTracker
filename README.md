@@ -4,5 +4,5 @@ Collects and cleans data from the CDC regarding covid death rates and then perfo
 
 
 
-This no longer runs correctly as the Excel file I was scraping was reformatted
+This no longer runs correctly as the Excel file I was reading was reformatted
 The original file contains the last run that was working
