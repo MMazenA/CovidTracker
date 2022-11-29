@@ -1,4 +1,5 @@
 # CovidTracker
+*DEPRECATED*
 
 Collects and cleans data from the CDC regarding covid death rates and then performs stastical anylysis and shows graphical representations
 
